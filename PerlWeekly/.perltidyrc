@@ -1,3 +1,4 @@
+-q
 --backup-and-modify-in-place
 --continuation-indentation=8
 --indent-columns=8

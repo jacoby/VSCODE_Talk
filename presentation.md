@@ -6,7 +6,6 @@
 
 ### Configuration Fun
 
-- Start now
 - Use in Context
 
 ### Workspace Fun
