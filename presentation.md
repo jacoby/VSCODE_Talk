@@ -13,6 +13,8 @@
 - [What is a VS Code Workspace?](https://code.visualstudio.com/docs/editor/workspaces)
 - Notice the bottom bar
 - Local configuration
+  - which is for the looks
+  - but can be more work-oriented than that
 - Fonts with Ligatures
 
 ### Extension Fun
@@ -35,4 +37,3 @@
 
 - All the OpenSSH rules
 - GitHub
-  
