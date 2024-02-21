@@ -8,12 +8,7 @@ no warnings qw{ experimental };
 
 my @examples = ( [ 1, 2, 3, 4, 5 ], [ 2, 3, 1, 5, 4 ] );
 
-for my $e (@examples) {
-    my $jort = jortsort( $e->@* );
-    say join "\n\t",
-        ( $jort ? 'true' : 'false' ),
-        join ', ', $e->@*;
-}
+for my $e (@examples) {    my $jort = jortsort( $e->@* );    say join "\n\t",        ( $jort ? 'true' : 'false' ),        join ', ', $e->@*;}
 
 # https://jacoby.github.io/2021/11/15/its-the-mullet-of-algorithms-the-weekly-challenge-139.html
 # http://jort.technology/

@@ -6,3 +6,13 @@
       "icon": "terminal-linux"
     },
    }
+
+
+    // "Reply": {
+    //   "path": "C:/Strawberry/perl/site/bin/reply.bat",
+    //   "icon": "terminal-linux"
+    // },
+    // "Python": {
+    //   "icon": "terminal-linux",
+    //   "path": "python"
+    // },

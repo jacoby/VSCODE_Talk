@@ -1,6 +1,12 @@
 {
-  //   "editor.fontFamily": "'Droid Sans Mono Slashed', monospace",
-  //   "editor.fontSize": 18,
+  // "workbench.colorTheme": "fairyfloss",
+  // "editor.fontFamily": "'Droid Sans Mono Slashed', monospace",
+  // "editor.fontSize": 18,
+  "editor.tabSize": 8,
+  "editor.wrappingIndent": "deepIndent",
+  "perlnavigator.perltidyProfile": " C:\\Users\\jacob\\VSCode\\PerlWeekly\\.perltidyrc",
+  "simple-perl.perlcritic": "C:\\Strawberry\\perl\\bin\\perlcritic",
+  "simple-perl.perltidy": "C:\\Strawberry\\perl\\bin\\perltidy",
+  "editor.defaultFormatter": "bscan.perlnavigator"
   //   "terminal.integrated.fontSize": 18,
-  //   "workbench.colorTheme": "fairyfloss"
 }

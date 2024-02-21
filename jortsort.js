@@ -20,7 +20,6 @@ function jortSort(array) {
   // compare to see if it was originally sorted
   for (var i = 0; i < originalArray.length; ++i) {
     if (originalArray[i] !== array[i]) return false;
-
   }
 
   return true;

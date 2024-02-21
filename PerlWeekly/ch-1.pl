@@ -13,9 +13,8 @@ my @examples = (
 );
 
 for my $example (@examples) {
-    my @output = smaller_than( $example->@* );
-    my $input  = join ', ', $example->@*;
-    my $output = join ', ', @output;
+
+    my @output = smaller_than( $example->@* );    my $input  = join ', ', $example->@*;    my $output = join ', ', @output;
 
     say <<~"END";
     Input:  \@ints = ($input)
