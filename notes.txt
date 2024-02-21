@@ -1,0 +1,8 @@
+ C:\Users\jacob\AppData\Roaming\Code\User\settings.json
+   "terminal.integrated.profiles.windows": {
+        
+    "Reply": {
+      "path": "C:/Strawberry/perl/site/bin/reply.bat",
+      "icon": "terminal-linux"
+    },
+   }
