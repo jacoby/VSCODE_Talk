@@ -1,10 +1,10 @@
 {
   // "workbench.colorTheme": "fairyfloss",
   // "editor.fontFamily": "'Droid Sans Mono Slashed', monospace",
-  "editor.fontSize": 18,
-  "terminal.integrated.fontSize": 18,
+  "editor.fontSize": 12,
+  "terminal.integrated.fontSize": 12,
   "editor.fontLigatures": true,
-  "editor.renderWhitespace": "none",
+  "editor.renderWhitespace": "boundary",
   "editor.tabSize": 8,
   "editor.wrappingIndent": "deepIndent",
   "editor.defaultFormatter": "bscan.perlnavigator",
